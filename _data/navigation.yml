@@ -1,6 +1,6 @@
 # main links
 main:
-   - title: "Test"
+  - title: "Test"
     url: /test/
   # - title: "Sample Posts"
   #   url: /year-archive/
