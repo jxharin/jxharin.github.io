@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jo Harin!"
   avatar           : "/assets/img/narutomaki.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "다양한 기술을 공부하고 있는 컴퓨터공학부 학생입니다."
+  location         : "suwon-si"
   email            :
   links:
     - label: "Email"
