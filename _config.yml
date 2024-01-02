@@ -124,10 +124,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+       url:"https://github.com/jxharin"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url:"https://www.instagram.com/hxrinzx/"
 
 # Site Footer
 footer:
@@ -137,10 +137,10 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url:"https://github.com/jxharin"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+       url:"https://www.instagram.com/hxrinzx/"
 
 
 # Reading Files
