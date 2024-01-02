@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url:"https://github.com/jxharin"
+      url:"https://github.com/jxharin"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url:"https://www.instagram.com/hxrinzx/"
@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url:"https://www.instagram.com/hxrinzx/"
+      url:"https://www.instagram.com/hxrinzx/"
 
 
 # Reading Files
