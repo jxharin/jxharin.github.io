@@ -6,5 +6,14 @@ main:
     url: /Category/
   - title: "Tag"
     url: /Tag/
+
+sidebar-category:
+  - title: "About"
+    url: /About/
+  - title: "Category"
+    url: /Category/
+  - title: "Tag"
+    url: /Tag/
+
   # - title: "Sitemap"
   #   url: /sitemap/
