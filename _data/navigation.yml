@@ -1,11 +1,17 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
-  - title: "Category"
-    url: /category/
-  - title: "Tag"
-    url: /tag/
+  # - title: "About"
+  #   url: /about/
+  # - title: "Category"
+  #   url: /category/
+  # - title: "Tag"
+  #   url: /tag/
+  - title: "JAVA"
+    url: "/java"
+  - title: "JSP + SPRING"
+    url: "/web"
+  - title: "JS"
+    url: "/js"
     
 
 sidebar-category:
