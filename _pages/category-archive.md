@@ -1,10 +1,10 @@
 # category-archive.md
 ---
-title: "Posts by Category"
+title: "markdown"
 layout: archive
-permalink: /Category
+permalink: /About
 author_profile: true
 ---
 
-{% assign posts = site.categories.blog %}
+{% assign posts = site.categories.About %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
