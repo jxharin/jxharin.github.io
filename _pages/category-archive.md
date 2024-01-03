@@ -2,7 +2,7 @@
 ---
 title: "markdown"
 layout: archive
-permalink: /About
+permalink: /About/
 author_profile: true
 ---
 
