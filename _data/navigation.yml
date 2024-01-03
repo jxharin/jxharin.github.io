@@ -9,12 +9,14 @@ main:
     
 
 sidebar-category:
-  - title: "About"
-    url: /about/
-  - title: "Category"
-    url: /category/
-  - title: "Tag"
-    url: /tag/
+  - title: "💻Programming"
+    children:
+      - title: "JAVA"
+       url: "/java"
+      - title: "JSP + SPRING"
+       url: "/web"
+      - title: "JS"
+       url: "/js"
 
   # - title: "Sitemap"
   #   url: /sitemap/
