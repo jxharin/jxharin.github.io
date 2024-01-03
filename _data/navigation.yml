@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Test"
-    url: /test/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "About"
+    url: /About/
+  - title: "Category"
+    url: /Category/
+  - title: "Tag"
+    url: /Tag/
   # - title: "Sitemap"
   #   url: /sitemap/
