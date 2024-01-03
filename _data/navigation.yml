@@ -1,19 +1,20 @@
 # main links
 main:
   - title: "About"
-    url: /About/
+    url: /about/
   - title: "Category"
-    url: /Category/
+    url: /category/
   - title: "Tag"
-    url: /Tag/
+    url: /tag/
+    
 
 sidebar-category:
   - title: "About"
-    url: /About/
+    url: /about/
   - title: "Category"
-    url: /Category/
+    url: /category/
   - title: "Tag"
-    url: /Tag/
+    url: /tag/
 
   # - title: "Sitemap"
   #   url: /sitemap/
