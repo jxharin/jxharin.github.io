@@ -19,14 +19,18 @@ sidebar-category:
     children:
        - title: "JAVA"
          url: "/java"
-       - title: "JSP + SPRING"
-         url: "/web"
+       - title: "JSP"
+         url: "/jsp"
+       - title: "SPRING"
+         url: "/spring"
        - title: "JS"
          url: "/js"
   - title: "🍥Blog"
     children:
        - title: "Diary"
-         url: "categories/blog"
+         url: "categories/diary"
+       - title: "Study Together"
+         url: "categories/study"
 
   # - title: "Sitemap"
   #   url: /sitemap/
