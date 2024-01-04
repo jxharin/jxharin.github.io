@@ -26,7 +26,7 @@ sidebar-category:
   - title: "🍥Blog"
     children:
        - title: "Diary"
-          url: "/blog"
+         url: "/blog"
 
   # - title: "Sitemap"
   #   url: /sitemap/
