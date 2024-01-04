@@ -6,12 +6,12 @@ main:
   #   url: /category/
   # - title: "Tag"
   #   url: /tag/
-  - title: "JAVA"
-    url: "/java"
-  - title: "JSP + SPRING"
-    url: "/web"
-  - title: "JS"
-    url: "/js"
+  - title: "About"
+    url: "/about"
+  - title: "Month"
+    url: "/month"
+  - title: "Tag"
+    url: "/tag"
     
 
 sidebar-category:
@@ -23,6 +23,10 @@ sidebar-category:
          url: "/web"
        - title: "JS"
          url: "/js"
+  - title: "🍥Blog"
+    children:
+       - title: "Diary"
+          url: "/blog"
 
   # - title: "Sitemap"
   #   url: /sitemap/
