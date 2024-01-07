@@ -1,8 +1,7 @@
 ---
-title: "JAVA"
+title: "Study Together"
 layout: archive
-permalink: categories/java
+permalink: categories/study
 ---
-
-{% assign posts = site.categories.java %}
+{% assign posts = site.categories.study %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
