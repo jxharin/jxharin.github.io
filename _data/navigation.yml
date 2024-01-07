@@ -9,7 +9,7 @@ main:
   - title: "About"
     url: "/about"
   - title: "Month"
-    url: "/month"
+    url: "/month-archive/"
   - title: "Tag"
     url: "/tag"
     
