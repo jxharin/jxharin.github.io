@@ -1,7 +1,7 @@
 ---
-title: "JS"
+title: "REACT"
 layout: archive
-permalink: categories/js
+permalink: categories/react
 ---
-{% assign posts = site.categories.js %}
+{% assign posts = site.categories.react %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
