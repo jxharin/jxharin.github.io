@@ -23,7 +23,7 @@ sidebar-category:
          url: "categories/jsp"
        - title: "SPRING"
          url: "categories/spring"
-       - title: "React"
+       - title: "REACT"
          url: "categories/react"
   - title: "🍥Blog"
     children:
