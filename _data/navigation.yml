@@ -25,6 +25,8 @@ sidebar-category:
          url: "categories/spring"
        - title: "REACT"
          url: "categories/react"
+       - title: "Node.js"
+         url: "categories/nodejs"
   - title: "🍥Blog"
     children:
        - title: "Diary"
