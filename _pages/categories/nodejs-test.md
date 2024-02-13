@@ -1,7 +1,7 @@
 ---
 title: "Node.js"
 layout: archive
-permalink: categories/nodejs
+permalink: /nodejs
 ---
 
 {% assign posts = site.categories.nodejs %}

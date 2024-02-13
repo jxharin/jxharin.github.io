@@ -18,21 +18,21 @@ sidebar-category:
   - title: "💻Programming"
     children:
        - title: "JAVA"
-         url: "categories/java"
+         url: "/java"
        - title: "JSP"
-         url: "categories/jsp"
+         url: "/jsp"
        - title: "SPRING"
-         url: "categories/spring"
+         url: "/spring"
        - title: "REACT"
-         url: "categories/react"
+         url: "/react"
        - title: "Node.js"
-         url: "categories/nodejs"
+         url: "/nodejs"
   - title: "🍥Blog"
     children:
        - title: "Diary"
-         url: "categories/diary"
+         url: "/diary"
        - title: "Study Together"
-         url: "categories/study"
+         url: "/study"
 
   # - title: "Sitemap"
   #   url: /sitemap/

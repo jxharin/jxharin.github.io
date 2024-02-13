@@ -1,7 +1,7 @@
 ---
 title: "JAVA"
 layout: archive
-permalink: categories/java
+permalink: /java
 ---
 
 {% assign posts = site.categories.java %}
